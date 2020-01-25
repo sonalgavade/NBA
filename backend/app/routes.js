@@ -81,11 +81,6 @@ router.delete('/api/players/:id', function(req, res){
 
 });
 
-
-
-
-
-
 module.exports = router;
 //this is used if you use 3 in server.js
 // module.exports = function(app){
